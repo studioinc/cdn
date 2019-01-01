@@ -1,13 +1,13 @@
 /* fallback */
 @font-face {
-  font-family: 'Material Icons';
+  font-family: 'Cocon';
   font-style: normal;
   font-weight: 400;
-  src: url(Cocon Next Arabic.ttf) format('ttf');
+  src: url(https://raw.githubusercontent.com/studioinc/cdn/master/Cocon%20Next%20Arabic.ttf) format('ttf');
 }
 
 .material-icons {
-  font-family: 'Material Icons';
+  font-family: 'Cocon';
   font-weight: normal;
   font-style: normal;
   font-size: 24px;
